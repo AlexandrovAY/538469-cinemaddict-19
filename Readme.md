@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Александр Александров](https://up.htmlacademy.ru/ecmascript/19/user/538469).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Хабиров](https://htmlacademy.ru/profile/alex_khab).
 
 ---
 
